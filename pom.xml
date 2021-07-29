@@ -27,7 +27,7 @@
                         <manifest>
                             <classpathPrefix>lib/</classpathPrefix>
                             <addClasspath>true</addClasspath>
-                            <mainClass>ThreadExample</mainClass>
+                            <mainClass>StacktraceGenerator</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
